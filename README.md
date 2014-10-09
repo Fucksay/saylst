@@ -1,14 +1,7 @@
+##saylst's blog
 
-个人资料：
-姓名：孙涛
-英文名：Saylst
-性别：男
-生日：19900702
-学校：西安电子科技大学
-家乡: 陕西西安
-爱好：篮球
-===============
+欢迎关注我的博客：[http://Fucksay.github.com](http://Fucksay.github.com "saylst's Blog")........
 
 
-github----装逼必备啊！
-可是一点都不会用啊、慢慢学啦！
+##Contact me
+__网易邮箱:__ [saylstr@163.com](mailto:saylst@163.com)
